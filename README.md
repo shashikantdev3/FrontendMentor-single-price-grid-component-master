@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://github.com/shashikantdev3/FrontendMentor-single-price-grid-component-master)
+- Live Site URL: [Live Preview](https://shashikantdev3.github.io/FrontendMentor-single-price-grid-component-master/)
 
 ## My process
 
